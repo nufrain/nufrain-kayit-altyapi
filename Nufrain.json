@@ -1,0 +1,31 @@
+{
+"Owner": "",
+"Token": "",
+"Prefix": "!",
+"Tag": "",
+"MongoURL": "",
+
+"RegisterAuthorized": [],
+"Man": "",
+"Woman": "",
+"AgeLimit": 13,
+"Unregister": "",
+"Suspicious": "",
+"BoosterRole": "",
+
+"RulesChannel": "",
+"WelcomeChannel": "",
+
+"Verified": "",
+"Unverified": "",
+"Number0": "",
+"Number1": "",
+"Number2": "",
+"Number3": "",
+"Number4": "",
+"Number5": "",
+"Number6": "",
+"Number7": "",
+"Number8": "",
+"Number9": ""
+}

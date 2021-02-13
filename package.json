@@ -1,0 +1,25 @@
+{
+  "name": "Nufrain",
+  "version": "0.0.1",
+  "description": "Nufrain Register Substructure",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node main.js"
+  },
+  "author": "Nufrain",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ms": "^2.1.3",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.2",
+    "request": "^2.88.2",
+    "@aloshai/mongosha": "^1.1.4",
+    "moment-duration-format": "^2.3.2"
+  },
+  "engines": {
+    "node": "12.20.0"
+  },
+  "keywords": []
+}
