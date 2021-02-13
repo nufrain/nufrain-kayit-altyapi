@@ -1,6 +1,6 @@
 const { DatabaseManager } = require("@aloshai/mongosha");
 const  { Message, Client, MessageEmbed }  = require('discord.js');
-const db = DatabaseManager.getDatabase("REGISTER2");
+const db = DatabaseManager.getDatabase("REGISTER");
 exports.run = async (client, message, args, params) => {
 
 if(!message.member.hasPermission("ADMINISTRATOR") && !message.member.roles.cache.some(qwe => client.nufrain.RegisterAuthorized.some(asd => asd == qwe.id))) return message.react(client.nufrain.Unverified)
