@@ -1,6 +1,6 @@
 const { DatabaseManager } = require("@aloshai/mongosha");
 const  { Message, Client, MessageEmbed }  = require('discord.js');
-const db = DatabaseManager.getDatabase("REGISTER2");
+const db = DatabaseManager.getDatabase("REGISTER");
 const moment = require('moment');
 moment.locale("tr")
 exports.run = async (client, message, args, params) => {
